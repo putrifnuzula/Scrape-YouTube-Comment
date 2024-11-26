@@ -1,4 +1,4 @@
-# Scrape-YouTube-Commentst
+# Scrape-YouTube-Comments
 Retrieve 100 comments from Indonesian YouTube Videos.
 
 # Overview:
