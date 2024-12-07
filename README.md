@@ -1,5 +1,5 @@
 # Scrape-YouTube-Comments
-Retrieve 100 comments from Indonesian YouTube Videos.
+Retrieve 100 comments from 5 Indonesian YouTube Videos.
 
 # Overview:
 - Scrape minimum 100 comments from five Indonesian YouTube videos.
